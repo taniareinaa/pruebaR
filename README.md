@@ -1,3 +1,3 @@
 # pruebaR
 
-Mi primer comit
+Mi primer commit
